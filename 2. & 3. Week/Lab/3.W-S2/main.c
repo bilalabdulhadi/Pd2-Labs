@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
     S2. Girilen dizideki en büyük elemanı bulan programı C dilinde Rekürsif olarak yazınız.
-    Write a recursion program that finds the largest element in the entered array in C language.
+    Q2. Write a recursion program that finds the largest element in the entered array in C language.
 */
 
 int largest_Element(int [], int);

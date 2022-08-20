@@ -5,7 +5,7 @@
     okuyarak 100 elemanlı bir diziye kaydetmeli ve geçme notuna göre kaç tane öğrencinin dersten kaldığını bularak
     fonksiyondan ge ri döndürürken, sınıf ortalamasını da ekrana yazdırmalıdır. Buna göre aşağıda verilen alanlara “main” ve
     “hesapla” fonksiyonlarını yazınız.
-    Write a "main" function that takes the number of students (less than or equal to 100) and the passing grade from the
+    Q1. Write a "main" function that takes the number of students (less than or equal to 100) and the passing grade from the
     keyboard and sends this information to the "calculate" function. The "calculate" function will read grades of each
     student from the keyboard and record them in an array with 100 elements. According to the passing grade, find out
     how many students failed and return it from function, and print the class average on the function. Accordingly, write

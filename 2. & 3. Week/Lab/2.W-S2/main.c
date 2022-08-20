@@ -4,7 +4,7 @@
     S2. Boy ve kilo bilgisini alarak vücut kitle indeksini hesaplayan kitleIndeks isimli bir fonksiyon yazınız. Bu fonksiyon aşağıda
     verilen tabloya göre değer döndürmektedir. Yazdığınız fonksiyonu main fonksiyonunda çağırarak kullanın ve bir
     program yazınız. Programın örnek çalışması şekilde verildiği gibi olmalıdır. Vücut kitle indeksi hesabı aşağıda verilmiştir.
-    Write a function named bodyIndex that computes body mass index by taking height and weight information.
+    Q2. Write a function named bodyIndex that computes body mass index by taking height and weight information.
     Write a program that calls the function in the main. The sample output of the program should be as it is
     given.
 */

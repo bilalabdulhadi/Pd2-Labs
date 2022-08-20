@@ -1,0 +1,3 @@
+D:/Programming/Coding/C/Pd2-Labs/6. Week/Lab/6.W-S2/cmake-build-debug/CMakeFiles/6_W_S2.dir
+D:/Programming/Coding/C/Pd2-Labs/6. Week/Lab/6.W-S2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming/Coding/C/Pd2-Labs/6. Week/Lab/6.W-S2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

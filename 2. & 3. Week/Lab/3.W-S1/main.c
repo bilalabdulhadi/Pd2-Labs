@@ -3,7 +3,7 @@
 /*
     S1. Main fonksiyonu içerisinde verilen bir doğal sayıya kadar olan (bu sayı dahil) tüm sayıların
     toplamını rekürsif bir fonksiyon kullanarak hesaplayanız.
-    Calculate the sum of all numbers (including this number) up to a natural number given in the main function
+    Q1. Calculate the sum of all numbers (including this number) up to a natural number given in the main function
     using a recursive function.
 */
 

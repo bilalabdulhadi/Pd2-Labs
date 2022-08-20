@@ -3,7 +3,7 @@
 /*
     S3. Main fonksiyonu içerisinde verilen sayının basamaklarını toplamını rekürsif bir fonksiyon kullanarak
     bulunuz.
-    Write a recursion function to sum the digits of the number given in the main function.
+    Q3. Write a recursion function to sum the digits of the number given in the main function.
 */
 
 int digit_Sum(int);

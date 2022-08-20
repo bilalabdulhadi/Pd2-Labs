@@ -3,7 +3,7 @@
 /*
     S4. Main fonksiyonu içerisinde verilen iki pozitif sayıyı kullanarak bu sayıların en büyük ortak bölenini rekürsif
     bir fonksiyon kullanarak bulunuz.
-    Using the two positive numbers given in the main function, find the largest common divisor of these
+    Q4. Using the two positive numbers given in the main function, find the largest common divisor of these
     numbers using a recursive function.
 */
 
